@@ -20,7 +20,6 @@ function imageLoaded() {
         loader.hidden = true;
         console.log("Ready is:", ready)
     }
-
 }
 
 // Helper Function for Setting Attributes

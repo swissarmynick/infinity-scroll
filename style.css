@@ -37,12 +37,13 @@ h1 {
 }
 
 .image-container {
-    margin: 1rem 20%;
+    margin: 1rem 30%;
 }
 
 .image-container img {
     width: 100%;
     margin-top: 0.5rem;
+    /* max-height: 80vh; */
 }
 
 @media screen and (max-width: 600px) {
